@@ -1,0 +1,2 @@
+# gitDemotesti
+GitHubin toimintojen testausta
