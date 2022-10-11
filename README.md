@@ -1,4 +1,4 @@
-# GitDemotesti
+# Git/GitHub -demoilua
 GitHubin toimintojen testausta
 
 ## Ominaisuuslista (features)
